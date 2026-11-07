@@ -7,3 +7,4 @@
 7. what is the general latency for RDMA?
 8. how to set up the app memory space in distributed environment?
 9. what is the detailed actions across app/os/hardware/switch/etc for an end to end RDMA?
+10. is it readonly or writable over RDMA? how does it handle write conflicts?
